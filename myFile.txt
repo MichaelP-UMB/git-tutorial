@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style type="text/css">
+h1 { 
+  color: white; 
+  text-align: center;
+}
+p {
+  color: white;
+}
+.features {
+columns: 100px 3;
+color: white;
+}
+
+</style>
+</head>
+  
+<body>
+ <div style="background-image: url('https://cdn.pixabay.com/photo/2020/04/21/15/13/sky-5073420_1280.jpg');">
+<img src="https://c.pxhere.com/photos/96/04/earth_planet_space_planet_earth_world_globe_blue_map-1324554.jpg!d" alt="View of planet Earth" style="width: 100%; height: 30%;">
+<h1>WELCOME TO EARTH</h1>
+   <p><b><ins>Look at what Earth has to offer:</ins></b></p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/A_water_droplet_collision_on_a_water_surface.jpg/1200px-A_water_droplet_collision_on_a_water_surface.jpg" alt="Water splash" style="width: 30%; height: 30%;">
+   <img src="https://cdn.pixabay.com/photo/2016/11/19/11/11/hands-1838658_1280.jpg" alt="Plant sprouting in hands" style="width: 35%; height: 30%;">
+   <img src="https://cdn.pixabay.com/photo/2020/06/01/13/26/technology-5246655_1280.jpg" alt="Hand holding a phone with computer effects" style="width: 30%; height: 30%;">
+   
+<div class="features">
+<p>Earth's most prominent feature is its water.  It covers the majority of the planet's surface.  Water is a fluid that is the foundation of life.</p>
+<p>Many forms of life exist on Earth.  From bacteria, to plants, all the way to animals.  They all share DNA, RNA, and proteins in common.</p>
+<p>    Computers exist which run commands and communicate over long distances.  Innovation continues to occur and there is rapid development.</p>
+</div>
+<p>We hope to see you soon!</p>
